@@ -1,0 +1,82 @@
+h1,h2,h3{
+  font-size: 3.5 rem;
+font-style: Montserrat black;
+padding: 20px 0;
+
+}
+
+
+#title{
+  background-color:  #b30047
+;
+  color: white;
+
+  line-height: 2;
+}
+.container-fluid{
+  padding: 20px 0;
+}
+.nav-item{
+  padding: 10px ;
+}
+.TinDog-image{
+  transform: rotate(25deg);
+ width:50%;
+ padding-left: 10px;
+
+
+}
+@media (max-width:1028px) {
+  .TinDog-image{
+    transform: rotate(0deg);
+   width:25%;
+   padding-top: 20px;
+
+}
+
+
+}
+#features{
+padding: 50px;
+}
+.features-box{
+  text-align: center;
+}
+.icon{
+  color: #ff884d;
+  margin-bottom: 1rem;
+
+}
+#testimonials{
+  background-color: #ff884d;
+  color:white;
+  text-align: center;
+  padding:20px ;
+}
+#press{
+  background-color: #ff884d;
+  padding: 20px;
+  text-align: center;
+  padding-bottom: 2%;
+}
+.press-logo{
+  padding:10px;
+  width: 10%;
+}
+#pricing{
+  text-align: center;
+  padding: 20px 0;
+}
+#cta{
+  background-color:   #b30047;
+;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+
+  line-height: 2;
+}
+#footer{
+  text-align: center;
+  padding: 10px 0;
+}
